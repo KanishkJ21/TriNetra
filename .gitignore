@@ -1,1 +1,15 @@
 database/*.db
+
+#python
+__pycache__/
+*.pyc
+
+# LOGs
+log/*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
