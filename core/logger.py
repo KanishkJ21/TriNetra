@@ -22,6 +22,7 @@ Does NOT:
 import logging
 from config import LOG_FILE, LOG_LEVEL,LOG_FORMAT
 
+
 #---------------------------
 #Logging Configuration
 #---------------------------
@@ -34,8 +35,10 @@ def configure_logging():
         filename = LOG_FILE,
     )
 
+
 def get_logger(name):       #Return a configured logger
     return logging.getLogger(name)
+
 
 if __name__ == "__main__":
     configure_logging()

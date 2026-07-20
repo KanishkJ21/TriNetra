@@ -1,7 +1,19 @@
-# TriNetra
-Trinetra is a minimalist, powerful cybersecurity scanner. It features top 1000 and custom port scans, advanced service/OS detection, and quick or intense scanning profiles. Instantly track your progress, view clean results tables, and export data in TXT, CSV, or JSON format.
+# TriNetra - Python Network Scanner
+Trinetra is a minimalist yet powerful cybersecurity scanner.
 
-#Trinetra 
+## Planned Features
+    - Top 1000 port scanning
+    - Custom port scanning 
+    - Service detection
+    - OS detection
+    - Quick and Intense scanning profiles
+    - Scan History 
+    - Export results to TXT, CSV, JSON and PDF
+    - Graphical User Interface (GUI)
+
+
+
+# Version 0.1 - Foundation Complete
 
 A Python based network scanner built for learning cybersecurity and software engineering
 
@@ -11,7 +23,11 @@ A Python based network scanner built for learning cybersecurity and software eng
     - Validation Module
 
 **Upcoming:
-    - Scanner
+    - Scanner Module
     - Database Integration
     - Export System
     - GUI
+
+
+
+# Version 0.2 - 
